@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./beach_sunrise_beautiful_beaches.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:flex ;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+form{
+    width: 700px;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 15px;
+    
+    
+}
+
+.names{
+    font-size: large;
+    letter-spacing: 4px;
+    margin-left: 20px;
+    color: azure;
+    
+
+}
+.first_1{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
+.first_2A{
+    display: flex;
+    margin-left: 160px;
+    }
+
+.first_2B{
+        display: flex;
+        margin-left: 225px;
+        }
+h1{
+    display: flex;
+    justify-content: space-around;
+    color: rgb(255, 255, 250);
+}
+.first_1 input{
+    display: flex;
+    margin-left: 40px;
+    outline: none;
+
+}
+#last {
+   display: flex;
+    margin-left: 138px;
+}
+#phone{
+    display: flex;
+     margin-left: 138px;
+ }
+ label{
+     display: flex;
+     margin-top: 30px;
+     color: beige;
+     margin-left: 10px;
+
+ }
+
+
